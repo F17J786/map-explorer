@@ -8,8 +8,8 @@ interface HomeHeaderProps {
   onBellPress?: () => void;
 }
 
-const BLUE = '#1A56DB';
-const RED = '#E02424';
+export const BLUE = '#1A56DB';
+export const RED = '#E02424';
 
 export const HomeHeader = ({ user, onBellPress }: HomeHeaderProps) => {
   return (

@@ -14,7 +14,6 @@ import { ServiceGrid } from '@/components/home/ServiceGrid';
 import { DiscoverSection } from '@/components/home/DiscoverSection';
 import { ScrollFadeItem } from '@/components/common/ScrollFadeItem';
 
-// TODO: lấy từ store/API
 const MOCK_USER = {
   name: 'KURZ VIETNAM',
   id: '#129,482',
@@ -25,29 +24,19 @@ const MOCK_USER = {
 export const HomeScreen = () => {
   const { scrollHandler } = useHomeScroll();
 
-  const handleBellPress = () => {
-    // navigate to notifications
-  };
+  const handleBellPress = () => {};
 
-  const handleRefreshContract = () => {
-    // reload contract data
-  };
+  const handleRefreshContract = () => {};
 
-  const handlePay = () => {
-    // navigate to payment
-  };
+  const handlePay = () => {};
 
   const handleServicePress = (item: ServiceItem) => {
-    // navigate to service request
     console.log('Service pressed:', item.id);
   };
 
-  const handleSeeMore = () => {
-    // navigate to discover list
-  };
+  const handleSeeMore = () => {};
 
   const handleDiscoverItemPress = (item: DiscoverItem) => {
-    // navigate to discover detail
     console.log('Discover item pressed:', item.id);
   };
 
