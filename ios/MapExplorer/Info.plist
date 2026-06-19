@@ -28,14 +28,13 @@
 	<true/>
 	<key>NSAppTransportSecurity</key>
 	<dict>
-	  <!-- Do not change NSAllowsArbitraryLoads to true, or you will risk app rejection! -->
 		<key>NSAllowsArbitraryLoads</key>
 		<false/>
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -50,5 +49,48 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>._SVN-Gilroy Black Italic.otf</string>
+		<string>._SVN-Gilroy Black.otf</string>
+		<string>._SVN-Gilroy Bold Italic.otf</string>
+		<string>._SVN-Gilroy Bold.otf</string>
+		<string>._SVN-Gilroy Heavy Italic.otf</string>
+		<string>._SVN-Gilroy Heavy.otf</string>
+		<string>._SVN-Gilroy Italic.otf</string>
+		<string>._SVN-Gilroy Light Italic.otf</string>
+		<string>._SVN-Gilroy Light.otf</string>
+		<string>._SVN-Gilroy Medium Italic.otf</string>
+		<string>._SVN-Gilroy Medium.otf</string>
+		<string>._SVN-Gilroy Regular.otf</string>
+		<string>._SVN-Gilroy SemiBold Italic.otf</string>
+		<string>._SVN-Gilroy SemiBold.otf</string>
+		<string>._SVN-Gilroy Thin Italic.otf</string>
+		<string>._SVN-Gilroy Thin.otf</string>
+		<string>._SVN-Gilroy XBold Italic.otf</string>
+		<string>._SVN-Gilroy XBold.otf</string>
+		<string>._SVN-Gilroy Xlight Italic.otf</string>
+		<string>._SVN-Gilroy Xlight.otf</string>
+		<string>SVN-Gilroy-Black-Italic.otf</string>
+		<string>SVN-Gilroy-Black.otf</string>
+		<string>SVN-Gilroy-Bold-Italic.otf</string>
+		<string>SVN-Gilroy-Bold.otf</string>
+		<string>SVN-Gilroy-Heavy-Italic.otf</string>
+		<string>SVN-Gilroy-Heavy.otf</string>
+		<string>SVN-Gilroy-Italic.otf</string>
+		<string>SVN-Gilroy-Light-Italic.otf</string>
+		<string>SVN-Gilroy-Light.otf</string>
+		<string>SVN-Gilroy-Medium-Italic.otf</string>
+		<string>SVN-Gilroy-Medium.otf</string>
+		<string>SVN-Gilroy-Regular.otf</string>
+		<string>SVN-Gilroy-SemiBold-Italic.otf</string>
+		<string>SVN-Gilroy-SemiBold.otf</string>
+		<string>SVN-Gilroy-Thin-Italic.otf</string>
+		<string>SVN-Gilroy-Thin.otf</string>
+		<string>SVN-Gilroy-XBold-Italic.otf</string>
+		<string>SVN-Gilroy-XBold.otf</string>
+		<string>SVN-Gilroy-Xlight-Italic.otf</string>
+		<string>SVN-Gilroy-Xlight.otf</string>
+	</array>
 </dict>
 </plist>

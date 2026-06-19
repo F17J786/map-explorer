@@ -11,10 +11,10 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Feather from 'react-native-vector-icons/Feather';
 
 import { COLORS } from '@/constants/colors';
-import { InvoiceScreen } from '@/screens/Invoices';
 import { HomeScreen } from '@/screens/Home';
 import { ProfileScreen } from '@/screens/Profile';
 import type { MainTabParamList } from '@/navigation/types';
+import { InvoiceStackNavigator } from './InvoiceStackNavigator';
 
 const TABS = [
   { key: 'Home', label: 'Trang chủ', icon: 'home' },
@@ -93,7 +93,7 @@ const CustomTabBar = ({ state, navigation }: CustomTabBarProps) => {
 const tabBarStyles = StyleSheet.create({
   wrapper: {
     position: 'absolute',
-    bottom: 20,
+    bottom: 14,
     left: 20,
     right: 20,
     borderRadius: 32,
@@ -182,7 +182,7 @@ export const MainTabNavigator = () => {
       }}
     >
       <Tab.Screen name="Home" component={HomeScreen} />
-      <Tab.Screen name="Invoices" component={InvoiceScreen} />
+      <Tab.Screen name="Invoices" component={InvoiceStackNavigator} />
       <Tab.Screen
         name="Support"
         component={PlaceholderScreen}

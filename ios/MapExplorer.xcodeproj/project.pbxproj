@@ -11,6 +11,46 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		F29B538E7DC8412E9315CA20 /* ._SVN-Gilroy Black Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4673ECB497E248E285F5952D /* ._SVN-Gilroy Black Italic.otf */; };
+		424A7EE18F6C4FAEADBE7FCD /* ._SVN-Gilroy Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7D74942BC83749F3BF8E7D83 /* ._SVN-Gilroy Black.otf */; };
+		006D5D4BBADF45B29609017D /* ._SVN-Gilroy Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = CA8AF60FEEB448999BA6EBF4 /* ._SVN-Gilroy Bold Italic.otf */; };
+		839460418B89426E9A82BDF9 /* ._SVN-Gilroy Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 159398100314460EB2AD0E3B /* ._SVN-Gilroy Bold.otf */; };
+		9AF14B7DD36F4B90AB074A8E /* ._SVN-Gilroy Heavy Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BF168EAB75249C9B5AC4678 /* ._SVN-Gilroy Heavy Italic.otf */; };
+		4B8F590C2CD64EB7AC156F1F /* ._SVN-Gilroy Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = B8DAE735C9C44F83B20A49EE /* ._SVN-Gilroy Heavy.otf */; };
+		61ECB68A0B514334A0181D39 /* ._SVN-Gilroy Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 93DAD69C26064638A5BD81BC /* ._SVN-Gilroy Italic.otf */; };
+		67394F500EBC482C97CBB0D3 /* ._SVN-Gilroy Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = D87530ABB24C4D128F3106A3 /* ._SVN-Gilroy Light Italic.otf */; };
+		A79361001F38499A9DFCCD5B /* ._SVN-Gilroy Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 45D0833C0C3E4EABBB5D2E94 /* ._SVN-Gilroy Light.otf */; };
+		F94ECA4266214DC5BCD0E255 /* ._SVN-Gilroy Medium Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6553C18CB9DA49D5B2F47DC2 /* ._SVN-Gilroy Medium Italic.otf */; };
+		E954FC563E53428AB4572486 /* ._SVN-Gilroy Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 290E12D3828C4A4EA86BD0EC /* ._SVN-Gilroy Medium.otf */; };
+		144236C174684F429421448C /* ._SVN-Gilroy Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 07CF54AE1B774714BFC4FC88 /* ._SVN-Gilroy Regular.otf */; };
+		583FCB32C868451CAD2FDDE0 /* ._SVN-Gilroy SemiBold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = C7E926CC4C3945A391310B54 /* ._SVN-Gilroy SemiBold Italic.otf */; };
+		AD4FE12624324B8892FCCDE2 /* ._SVN-Gilroy SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FB18833C7172499D957A8DF4 /* ._SVN-Gilroy SemiBold.otf */; };
+		9003FBEA58304C29AB1621CF /* ._SVN-Gilroy Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = C4536BFAA48A4CB3B4364BC7 /* ._SVN-Gilroy Thin Italic.otf */; };
+		0347903364A443969D3CD9C9 /* ._SVN-Gilroy Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3C2584F9C7444043820AFFB7 /* ._SVN-Gilroy Thin.otf */; };
+		0D2811727F004509AA2C97D1 /* ._SVN-Gilroy XBold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8BFCC46A055F4319BA0A2AB1 /* ._SVN-Gilroy XBold Italic.otf */; };
+		667E3F6DD512423F99BB813C /* ._SVN-Gilroy XBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = DCB598E519BF4F5FB62743C9 /* ._SVN-Gilroy XBold.otf */; };
+		3001471A977447BEA655D9FA /* ._SVN-Gilroy Xlight Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = C0C0D60345CF49C996F09E9F /* ._SVN-Gilroy Xlight Italic.otf */; };
+		61EB4B60E0614AF2B146EE9C /* ._SVN-Gilroy Xlight.otf in Resources */ = {isa = PBXBuildFile; fileRef = D1DB69B54F9548EFBE834556 /* ._SVN-Gilroy Xlight.otf */; };
+		6B5F17AE27924A50893F7DDF /* SVN-Gilroy-Black-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 14FD080A90894D2D832F83DA /* SVN-Gilroy-Black-Italic.otf */; };
+		640A75C9AFC146688D4ED6C0 /* SVN-Gilroy-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = A5E1E85DAC28490AA0FFC16F /* SVN-Gilroy-Black.otf */; };
+		B9F588CD516C4E8BB79F812C /* SVN-Gilroy-Bold-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = D65901EC5A0748BAA803A7B3 /* SVN-Gilroy-Bold-Italic.otf */; };
+		38006D300FD1417EAE5D9552 /* SVN-Gilroy-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = DA6588433C2E474EBCB63987 /* SVN-Gilroy-Bold.otf */; };
+		C1AEC940ADCB4B0C865D302B /* SVN-Gilroy-Heavy-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 22C8C814A0254545855AEFFD /* SVN-Gilroy-Heavy-Italic.otf */; };
+		9A8011F4188241B6BCAA2D3F /* SVN-Gilroy-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2F201E81C223462CAF46437A /* SVN-Gilroy-Heavy.otf */; };
+		643F2632475345E3A561FE24 /* SVN-Gilroy-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = DA5A2514716B4E7392079C40 /* SVN-Gilroy-Italic.otf */; };
+		1FD669CB21934E2D90D854AB /* SVN-Gilroy-Light-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 427BA9F211C941A6A100DAC4 /* SVN-Gilroy-Light-Italic.otf */; };
+		864DBA1C50624DF49CDD79EE /* SVN-Gilroy-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 901E1496839B4C729458D26F /* SVN-Gilroy-Light.otf */; };
+		E021AC4FD611489C90C094C4 /* SVN-Gilroy-Medium-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E301D82869A3496E97ED7B55 /* SVN-Gilroy-Medium-Italic.otf */; };
+		73C239AD1BDC4D66AB206BB7 /* SVN-Gilroy-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = DC3ED99E14F8498ABF87DC05 /* SVN-Gilroy-Medium.otf */; };
+		670EFDE60C0A4B20A9C10D42 /* SVN-Gilroy-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 55AF5581820F43BFA437E9EF /* SVN-Gilroy-Regular.otf */; };
+		E9FC46B0050340A68EF9AF65 /* SVN-Gilroy-SemiBold-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 123C537EC6184EC7BF1DE59A /* SVN-Gilroy-SemiBold-Italic.otf */; };
+		74663D4CBD3D4A2FA36A1C32 /* SVN-Gilroy-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FE1841FF5159485EBE7289C8 /* SVN-Gilroy-SemiBold.otf */; };
+		6DBB2EF4EB39455CB9393BAA /* SVN-Gilroy-Thin-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B46855C591DA49D693D8B5E3 /* SVN-Gilroy-Thin-Italic.otf */; };
+		7675CB4A428A429AB62E6A99 /* SVN-Gilroy-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = EA3FC0AB804D4883928ED90B /* SVN-Gilroy-Thin.otf */; };
+		607BF6504180430C9BD21954 /* SVN-Gilroy-XBold-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 94A6DF28BA584C82AD0307E6 /* SVN-Gilroy-XBold-Italic.otf */; };
+		ADA95EAB899A4C6794F23A2E /* SVN-Gilroy-XBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8AF1370AAEB641048C90B2B0 /* SVN-Gilroy-XBold.otf */; };
+		8D3D52CD03B841B892256E85 /* SVN-Gilroy-Xlight-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 90EA224DADCF4DDB9C461C48 /* SVN-Gilroy-Xlight-Italic.otf */; };
+		4EC7031EF39241CF9F2E7B74 /* SVN-Gilroy-Xlight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 69334200E61D43D7AEDA3A12 /* SVN-Gilroy-Xlight.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +64,46 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = MapExplorer/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = MapExplorer/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		4673ECB497E248E285F5952D /* ._SVN-Gilroy Black Italic.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Black Italic.otf"; path = "../src/assets/font/._SVN-Gilroy Black Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7D74942BC83749F3BF8E7D83 /* ._SVN-Gilroy Black.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Black.otf"; path = "../src/assets/font/._SVN-Gilroy Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CA8AF60FEEB448999BA6EBF4 /* ._SVN-Gilroy Bold Italic.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Bold Italic.otf"; path = "../src/assets/font/._SVN-Gilroy Bold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		159398100314460EB2AD0E3B /* ._SVN-Gilroy Bold.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Bold.otf"; path = "../src/assets/font/._SVN-Gilroy Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2BF168EAB75249C9B5AC4678 /* ._SVN-Gilroy Heavy Italic.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Heavy Italic.otf"; path = "../src/assets/font/._SVN-Gilroy Heavy Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B8DAE735C9C44F83B20A49EE /* ._SVN-Gilroy Heavy.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Heavy.otf"; path = "../src/assets/font/._SVN-Gilroy Heavy.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		93DAD69C26064638A5BD81BC /* ._SVN-Gilroy Italic.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Italic.otf"; path = "../src/assets/font/._SVN-Gilroy Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D87530ABB24C4D128F3106A3 /* ._SVN-Gilroy Light Italic.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Light Italic.otf"; path = "../src/assets/font/._SVN-Gilroy Light Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		45D0833C0C3E4EABBB5D2E94 /* ._SVN-Gilroy Light.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Light.otf"; path = "../src/assets/font/._SVN-Gilroy Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6553C18CB9DA49D5B2F47DC2 /* ._SVN-Gilroy Medium Italic.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Medium Italic.otf"; path = "../src/assets/font/._SVN-Gilroy Medium Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		290E12D3828C4A4EA86BD0EC /* ._SVN-Gilroy Medium.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Medium.otf"; path = "../src/assets/font/._SVN-Gilroy Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		07CF54AE1B774714BFC4FC88 /* ._SVN-Gilroy Regular.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Regular.otf"; path = "../src/assets/font/._SVN-Gilroy Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C7E926CC4C3945A391310B54 /* ._SVN-Gilroy SemiBold Italic.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy SemiBold Italic.otf"; path = "../src/assets/font/._SVN-Gilroy SemiBold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FB18833C7172499D957A8DF4 /* ._SVN-Gilroy SemiBold.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy SemiBold.otf"; path = "../src/assets/font/._SVN-Gilroy SemiBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C4536BFAA48A4CB3B4364BC7 /* ._SVN-Gilroy Thin Italic.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Thin Italic.otf"; path = "../src/assets/font/._SVN-Gilroy Thin Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3C2584F9C7444043820AFFB7 /* ._SVN-Gilroy Thin.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Thin.otf"; path = "../src/assets/font/._SVN-Gilroy Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8BFCC46A055F4319BA0A2AB1 /* ._SVN-Gilroy XBold Italic.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy XBold Italic.otf"; path = "../src/assets/font/._SVN-Gilroy XBold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DCB598E519BF4F5FB62743C9 /* ._SVN-Gilroy XBold.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy XBold.otf"; path = "../src/assets/font/._SVN-Gilroy XBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C0C0D60345CF49C996F09E9F /* ._SVN-Gilroy Xlight Italic.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Xlight Italic.otf"; path = "../src/assets/font/._SVN-Gilroy Xlight Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D1DB69B54F9548EFBE834556 /* ._SVN-Gilroy Xlight.otf */ = {isa = PBXFileReference; name = "._SVN-Gilroy Xlight.otf"; path = "../src/assets/font/._SVN-Gilroy Xlight.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		14FD080A90894D2D832F83DA /* SVN-Gilroy-Black-Italic.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Black-Italic.otf"; path = "../src/assets/font/SVN-Gilroy-Black-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A5E1E85DAC28490AA0FFC16F /* SVN-Gilroy-Black.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Black.otf"; path = "../src/assets/font/SVN-Gilroy-Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D65901EC5A0748BAA803A7B3 /* SVN-Gilroy-Bold-Italic.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Bold-Italic.otf"; path = "../src/assets/font/SVN-Gilroy-Bold-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DA6588433C2E474EBCB63987 /* SVN-Gilroy-Bold.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Bold.otf"; path = "../src/assets/font/SVN-Gilroy-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		22C8C814A0254545855AEFFD /* SVN-Gilroy-Heavy-Italic.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Heavy-Italic.otf"; path = "../src/assets/font/SVN-Gilroy-Heavy-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2F201E81C223462CAF46437A /* SVN-Gilroy-Heavy.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Heavy.otf"; path = "../src/assets/font/SVN-Gilroy-Heavy.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DA5A2514716B4E7392079C40 /* SVN-Gilroy-Italic.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Italic.otf"; path = "../src/assets/font/SVN-Gilroy-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		427BA9F211C941A6A100DAC4 /* SVN-Gilroy-Light-Italic.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Light-Italic.otf"; path = "../src/assets/font/SVN-Gilroy-Light-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		901E1496839B4C729458D26F /* SVN-Gilroy-Light.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Light.otf"; path = "../src/assets/font/SVN-Gilroy-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E301D82869A3496E97ED7B55 /* SVN-Gilroy-Medium-Italic.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Medium-Italic.otf"; path = "../src/assets/font/SVN-Gilroy-Medium-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DC3ED99E14F8498ABF87DC05 /* SVN-Gilroy-Medium.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Medium.otf"; path = "../src/assets/font/SVN-Gilroy-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		55AF5581820F43BFA437E9EF /* SVN-Gilroy-Regular.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Regular.otf"; path = "../src/assets/font/SVN-Gilroy-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		123C537EC6184EC7BF1DE59A /* SVN-Gilroy-SemiBold-Italic.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-SemiBold-Italic.otf"; path = "../src/assets/font/SVN-Gilroy-SemiBold-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FE1841FF5159485EBE7289C8 /* SVN-Gilroy-SemiBold.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-SemiBold.otf"; path = "../src/assets/font/SVN-Gilroy-SemiBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B46855C591DA49D693D8B5E3 /* SVN-Gilroy-Thin-Italic.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Thin-Italic.otf"; path = "../src/assets/font/SVN-Gilroy-Thin-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EA3FC0AB804D4883928ED90B /* SVN-Gilroy-Thin.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Thin.otf"; path = "../src/assets/font/SVN-Gilroy-Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		94A6DF28BA584C82AD0307E6 /* SVN-Gilroy-XBold-Italic.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-XBold-Italic.otf"; path = "../src/assets/font/SVN-Gilroy-XBold-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8AF1370AAEB641048C90B2B0 /* SVN-Gilroy-XBold.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-XBold.otf"; path = "../src/assets/font/SVN-Gilroy-XBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		90EA224DADCF4DDB9C461C48 /* SVN-Gilroy-Xlight-Italic.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Xlight-Italic.otf"; path = "../src/assets/font/SVN-Gilroy-Xlight-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		69334200E61D43D7AEDA3A12 /* SVN-Gilroy-Xlight.otf */ = {isa = PBXFileReference; name = "SVN-Gilroy-Xlight.otf"; path = "../src/assets/font/SVN-Gilroy-Xlight.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +154,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				0EF3534A19B34503A7CAB2FB /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -96,6 +177,54 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		0EF3534A19B34503A7CAB2FB /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				4673ECB497E248E285F5952D /* ._SVN-Gilroy Black Italic.otf */,
+				7D74942BC83749F3BF8E7D83 /* ._SVN-Gilroy Black.otf */,
+				CA8AF60FEEB448999BA6EBF4 /* ._SVN-Gilroy Bold Italic.otf */,
+				159398100314460EB2AD0E3B /* ._SVN-Gilroy Bold.otf */,
+				2BF168EAB75249C9B5AC4678 /* ._SVN-Gilroy Heavy Italic.otf */,
+				B8DAE735C9C44F83B20A49EE /* ._SVN-Gilroy Heavy.otf */,
+				93DAD69C26064638A5BD81BC /* ._SVN-Gilroy Italic.otf */,
+				D87530ABB24C4D128F3106A3 /* ._SVN-Gilroy Light Italic.otf */,
+				45D0833C0C3E4EABBB5D2E94 /* ._SVN-Gilroy Light.otf */,
+				6553C18CB9DA49D5B2F47DC2 /* ._SVN-Gilroy Medium Italic.otf */,
+				290E12D3828C4A4EA86BD0EC /* ._SVN-Gilroy Medium.otf */,
+				07CF54AE1B774714BFC4FC88 /* ._SVN-Gilroy Regular.otf */,
+				C7E926CC4C3945A391310B54 /* ._SVN-Gilroy SemiBold Italic.otf */,
+				FB18833C7172499D957A8DF4 /* ._SVN-Gilroy SemiBold.otf */,
+				C4536BFAA48A4CB3B4364BC7 /* ._SVN-Gilroy Thin Italic.otf */,
+				3C2584F9C7444043820AFFB7 /* ._SVN-Gilroy Thin.otf */,
+				8BFCC46A055F4319BA0A2AB1 /* ._SVN-Gilroy XBold Italic.otf */,
+				DCB598E519BF4F5FB62743C9 /* ._SVN-Gilroy XBold.otf */,
+				C0C0D60345CF49C996F09E9F /* ._SVN-Gilroy Xlight Italic.otf */,
+				D1DB69B54F9548EFBE834556 /* ._SVN-Gilroy Xlight.otf */,
+				14FD080A90894D2D832F83DA /* SVN-Gilroy-Black-Italic.otf */,
+				A5E1E85DAC28490AA0FFC16F /* SVN-Gilroy-Black.otf */,
+				D65901EC5A0748BAA803A7B3 /* SVN-Gilroy-Bold-Italic.otf */,
+				DA6588433C2E474EBCB63987 /* SVN-Gilroy-Bold.otf */,
+				22C8C814A0254545855AEFFD /* SVN-Gilroy-Heavy-Italic.otf */,
+				2F201E81C223462CAF46437A /* SVN-Gilroy-Heavy.otf */,
+				DA5A2514716B4E7392079C40 /* SVN-Gilroy-Italic.otf */,
+				427BA9F211C941A6A100DAC4 /* SVN-Gilroy-Light-Italic.otf */,
+				901E1496839B4C729458D26F /* SVN-Gilroy-Light.otf */,
+				E301D82869A3496E97ED7B55 /* SVN-Gilroy-Medium-Italic.otf */,
+				DC3ED99E14F8498ABF87DC05 /* SVN-Gilroy-Medium.otf */,
+				55AF5581820F43BFA437E9EF /* SVN-Gilroy-Regular.otf */,
+				123C537EC6184EC7BF1DE59A /* SVN-Gilroy-SemiBold-Italic.otf */,
+				FE1841FF5159485EBE7289C8 /* SVN-Gilroy-SemiBold.otf */,
+				B46855C591DA49D693D8B5E3 /* SVN-Gilroy-Thin-Italic.otf */,
+				EA3FC0AB804D4883928ED90B /* SVN-Gilroy-Thin.otf */,
+				94A6DF28BA584C82AD0307E6 /* SVN-Gilroy-XBold-Italic.otf */,
+				8AF1370AAEB641048C90B2B0 /* SVN-Gilroy-XBold.otf */,
+				90EA224DADCF4DDB9C461C48 /* SVN-Gilroy-Xlight-Italic.otf */,
+				69334200E61D43D7AEDA3A12 /* SVN-Gilroy-Xlight.otf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -159,6 +288,46 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				F29B538E7DC8412E9315CA20 /* ._SVN-Gilroy Black Italic.otf in Resources */,
+				424A7EE18F6C4FAEADBE7FCD /* ._SVN-Gilroy Black.otf in Resources */,
+				006D5D4BBADF45B29609017D /* ._SVN-Gilroy Bold Italic.otf in Resources */,
+				839460418B89426E9A82BDF9 /* ._SVN-Gilroy Bold.otf in Resources */,
+				9AF14B7DD36F4B90AB074A8E /* ._SVN-Gilroy Heavy Italic.otf in Resources */,
+				4B8F590C2CD64EB7AC156F1F /* ._SVN-Gilroy Heavy.otf in Resources */,
+				61ECB68A0B514334A0181D39 /* ._SVN-Gilroy Italic.otf in Resources */,
+				67394F500EBC482C97CBB0D3 /* ._SVN-Gilroy Light Italic.otf in Resources */,
+				A79361001F38499A9DFCCD5B /* ._SVN-Gilroy Light.otf in Resources */,
+				F94ECA4266214DC5BCD0E255 /* ._SVN-Gilroy Medium Italic.otf in Resources */,
+				E954FC563E53428AB4572486 /* ._SVN-Gilroy Medium.otf in Resources */,
+				144236C174684F429421448C /* ._SVN-Gilroy Regular.otf in Resources */,
+				583FCB32C868451CAD2FDDE0 /* ._SVN-Gilroy SemiBold Italic.otf in Resources */,
+				AD4FE12624324B8892FCCDE2 /* ._SVN-Gilroy SemiBold.otf in Resources */,
+				9003FBEA58304C29AB1621CF /* ._SVN-Gilroy Thin Italic.otf in Resources */,
+				0347903364A443969D3CD9C9 /* ._SVN-Gilroy Thin.otf in Resources */,
+				0D2811727F004509AA2C97D1 /* ._SVN-Gilroy XBold Italic.otf in Resources */,
+				667E3F6DD512423F99BB813C /* ._SVN-Gilroy XBold.otf in Resources */,
+				3001471A977447BEA655D9FA /* ._SVN-Gilroy Xlight Italic.otf in Resources */,
+				61EB4B60E0614AF2B146EE9C /* ._SVN-Gilroy Xlight.otf in Resources */,
+				6B5F17AE27924A50893F7DDF /* SVN-Gilroy-Black-Italic.otf in Resources */,
+				640A75C9AFC146688D4ED6C0 /* SVN-Gilroy-Black.otf in Resources */,
+				B9F588CD516C4E8BB79F812C /* SVN-Gilroy-Bold-Italic.otf in Resources */,
+				38006D300FD1417EAE5D9552 /* SVN-Gilroy-Bold.otf in Resources */,
+				C1AEC940ADCB4B0C865D302B /* SVN-Gilroy-Heavy-Italic.otf in Resources */,
+				9A8011F4188241B6BCAA2D3F /* SVN-Gilroy-Heavy.otf in Resources */,
+				643F2632475345E3A561FE24 /* SVN-Gilroy-Italic.otf in Resources */,
+				1FD669CB21934E2D90D854AB /* SVN-Gilroy-Light-Italic.otf in Resources */,
+				864DBA1C50624DF49CDD79EE /* SVN-Gilroy-Light.otf in Resources */,
+				E021AC4FD611489C90C094C4 /* SVN-Gilroy-Medium-Italic.otf in Resources */,
+				73C239AD1BDC4D66AB206BB7 /* SVN-Gilroy-Medium.otf in Resources */,
+				670EFDE60C0A4B20A9C10D42 /* SVN-Gilroy-Regular.otf in Resources */,
+				E9FC46B0050340A68EF9AF65 /* SVN-Gilroy-SemiBold-Italic.otf in Resources */,
+				74663D4CBD3D4A2FA36A1C32 /* SVN-Gilroy-SemiBold.otf in Resources */,
+				6DBB2EF4EB39455CB9393BAA /* SVN-Gilroy-Thin-Italic.otf in Resources */,
+				7675CB4A428A429AB62E6A99 /* SVN-Gilroy-Thin.otf in Resources */,
+				607BF6504180430C9BD21954 /* SVN-Gilroy-XBold-Italic.otf in Resources */,
+				ADA95EAB899A4C6794F23A2E /* SVN-Gilroy-XBold.otf in Resources */,
+				8D3D52CD03B841B892256E85 /* SVN-Gilroy-Xlight-Italic.otf in Resources */,
+				4EC7031EF39241CF9F2E7B74 /* SVN-Gilroy-Xlight.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

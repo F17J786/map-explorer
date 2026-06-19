@@ -10,3 +10,9 @@ export type MainTabParamList = {
   Points: undefined;
   Support: undefined;
 };
+
+export type InvoiceStackParamList = {
+  InvoiceHome: undefined;
+  SearchInvoices: undefined;
+  DeviceList: undefined;
+};
